@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RISC-V-5-STAGE-PIPELINE-PROCESSOR-
 A Verilog implementation of a 5-stage pipelined RISC-V processor based on the RV32I instruction set architecture. The design follows the classic pipeline stages: Instruction Fetch (IF), Instruction Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB).
 =======
@@ -121,5 +121,5 @@ This project is developed as part of a **BTech final year project** to demonstra
 - Data and control hazard handling  
 - Forwarding and stall mechanisms  
 - Memory hierarchy integration  
->>>>>>> fca580f (Initial commit: RISC-V 5-stage pipeline)
+
 
